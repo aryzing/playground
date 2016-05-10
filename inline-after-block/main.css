@@ -1,0 +1,24 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+div {
+  height: 250px;
+  width: 30%;
+}
+.first {
+  background-color: red
+}
+.second {
+  background-color: yellow;
+}
+.third {
+  background-color: green;
+}
+.in {
+  display: inline-block;
+}
